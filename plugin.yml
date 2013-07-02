@@ -1,0 +1,11 @@
+name: pve
+main: me.Magic_Mat.PvE.PvE
+version: 1.0
+description: >
+             Allows Admin Chatting!
+             
+commands:
+  start:
+    description: Sends a message to all admins!
+  w1:
+    description: debug only
